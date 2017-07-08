@@ -11,6 +11,7 @@ Date:       08-July-2017
 -->
 <html>
 <head>
+	<title>Doctor Record</title>
     <!--
     CSS style
     -->
