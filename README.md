@@ -1,1 +1,2 @@
-# Medinfi_DoctorRecord_Project_08_July_2017_Jayashree
+Doctor Record Monitor 
+Thi Project is created using netbeans IDE.This is website used to record the doctor information.
